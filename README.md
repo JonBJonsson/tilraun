@@ -1,3 +1,7 @@
 tilraun
-this is something _ new _ - learning to swim all over again
-** more updates **
+this is something _new_ - learning to swim all over again
+**more updates *
+
+
+**bold**
+_italic_
